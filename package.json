@@ -1,0 +1,14 @@
+{
+  "name": "wordchain",
+  "version": "0.0.1",
+  "description": "off the wordchain!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mthomas",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}
